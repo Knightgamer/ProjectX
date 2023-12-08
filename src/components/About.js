@@ -45,6 +45,7 @@ const About = () => {
         </div>
       </div>
     </section>
+  );
 };
 
 export default About;
