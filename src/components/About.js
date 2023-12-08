@@ -37,7 +37,11 @@ const About = () => {
             </p>
             <a
               href="#contact"
+
               className="inline-block focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-opacity-50 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105"
+
+              className="inline-flex items-center justify-center bg-blue-500 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-600 focus:bg-blue-700 active:bg-blue-800 transition duration-300 text-lg font-semibold tracking-wide cursor-pointer"
+
             >
               Contact Us
             </a>
