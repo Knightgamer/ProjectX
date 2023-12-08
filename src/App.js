@@ -1,9 +1,13 @@
 import "./App.css";
-
+import Header from "./containers/header/Header.jsx";
+import Navbar from "./components/navbar/Navbar.jsx";
 function App() {
   return (
     <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <div className="gradient__bg">
+        <Navbar />
+        <Header />
+      </div>
     </div>
   );
 }
