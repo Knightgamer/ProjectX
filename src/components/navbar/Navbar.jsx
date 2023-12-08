@@ -17,16 +17,16 @@ const Navbar = () => {
             <a href="#home"> Home </a>{" "}
           </p>
           <p>
-            <a href="#wgpt3"> About </a>{" "}
+            <a href="#wgpt3"> What is GPT </a>{" "}
           </p>
           <p>
-            <a href="#possibility"> Services </a>{" "}
+            <a href="#possibility"> Open AI </a>{" "}
           </p>
           <p>
-            <a href="#features"> Features </a>{" "}
+            <a href="#features"> Case Studies </a>{" "}
           </p>
           <p>
-            <a href="#blog"> Blog </a>{" "}
+            <a href="#blog"> Library </a>{" "}
           </p>
         </div>
       </div>
@@ -56,16 +56,16 @@ const Navbar = () => {
                 <a href="#home"> Home </a>{" "}
               </p>
               <p>
-                <a href="#Wgpt3"> What is GPT </a>{" "}
+                <a href="#Wgpt3"> About </a>{" "}
               </p>
               <p>
-                <a href="#possibility"> Open AI </a>{" "}
+                <a href="#possibility"> Services </a>{" "}
               </p>
               <p>
-                <a href="#features"> Case Studies </a>{" "}
+                <a href="#features"> Features </a>{" "}
               </p>
               <p>
-                <a href="#blog"> Library </a>{" "}
+                <a href="#blog"> Blog </a>{" "}
               </p>
             </div>
             <div className="gpt3__navbar-menu_container-links-sign">
