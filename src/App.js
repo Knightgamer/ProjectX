@@ -1,9 +1,16 @@
-import "./App.css";
+import React from "react";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Header from "./components/Header";
+import Services from "./components/Services";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div>
+      <Header />
+      <About id="about" />
+      <Services id="services" />
+      <Contact id="contact" />
     </div>
   );
 }
